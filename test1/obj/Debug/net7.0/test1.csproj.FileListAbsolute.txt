@@ -1,0 +1,15 @@
+/home/cheleho/Desktop/test c#/test1/bin/Debug/net7.0/test1
+/home/cheleho/Desktop/test c#/test1/bin/Debug/net7.0/test1.deps.json
+/home/cheleho/Desktop/test c#/test1/bin/Debug/net7.0/test1.runtimeconfig.json
+/home/cheleho/Desktop/test c#/test1/bin/Debug/net7.0/test1.dll
+/home/cheleho/Desktop/test c#/test1/bin/Debug/net7.0/test1.pdb
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.csproj.AssemblyReference.cache
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.dll
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/refint/test1.dll
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.pdb
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/test1.genruntimeconfig.cache
+/home/cheleho/Desktop/test c#/test1/obj/Debug/net7.0/ref/test1.dll
